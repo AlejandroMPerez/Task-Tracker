@@ -4,6 +4,7 @@ import Tasks from "./Components/Tasks";
 import AddTask from "./Components/AddTask";
 import Footer from "./Components/Footer";
 import About from "./Components/About";
+import { BrowserRouter, Router, Routes } from "react";
 
 function App() {
 
